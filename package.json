@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/marcusviniciusferreiracruz/javascriptTrainingNovembro/issues"
   },
-  "homepage": "https://github.com/marcusviniciusferreiracruz/javascriptTrainingNovembro#readme"
+  "homepage": "https://github.com/marcusviniciusferreiracruz/javascriptTrainingNovembro#readme",
+  "dependencies": {
+    "cypress": "^5.5.0"
+  }
 }
