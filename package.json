@@ -1,0 +1,20 @@
+{
+  "name": "javascripttrainingnovembro",
+  "version": "1.0.0",
+  "description": "# Intruction to Automation Testing with Marcus Cruz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusviniciusferreiracruz/javascriptTrainingNovembro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcusviniciusferreiracruz/javascriptTrainingNovembro/issues"
+  },
+  "homepage": "https://github.com/marcusviniciusferreiracruz/javascriptTrainingNovembro#readme"
+}
